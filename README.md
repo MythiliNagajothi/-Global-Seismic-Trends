@@ -71,10 +71,10 @@ git clone https://github.com/MythiliNagajothi/-Global-Seismic-Trends.git
 
 ---
 
-### Step 3: Run Streamlit Application
+### Step 2: Run Streamlit Application
 
 ```bash
-streamlit run app.py
+streamlit run apps.py
 ```
 
 ## 📚 Learning Outcomes
@@ -98,3 +98,4 @@ https://github.com/MythiliNagajothi
 ---
 
 - Deployment on Streamlit Cloud
+Deployment is not happening because of Local MYSQL Host server connection.But we can view Streamlit Dashboard by running streamlit run apps.py in VS code Terminal.
